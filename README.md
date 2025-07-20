@@ -1,5 +1,5 @@
 ## MVC Auth/Register App
-# This is a simple educational PHP (MVC) project that implements:
+# This is a simple PHP (MVC) project that implements:
 - User registration
 - Login authentication
 - CSRF protection
